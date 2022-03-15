@@ -2,12 +2,14 @@
 
 ## Learnings
 
--   Creating a React Project with Vite
--   Setting up TailwindCSS in a Vite based React Project
--   Learning new additions in TailwindCSS v3
+1.  Creating a React Project with Vite
+2.  Setting up TailwindCSS in a Vite based React Project
+3.  Learning new additions in TailwindCSS v3
 
-### [Design Inspiration](<https://www.figma.com/file/fUV9cEKBZ0mQIZs7TRxcPG/Login-Page-Design-(Community)>)
+## TODO
 
 -   [ ] Make it a PWA
 -   [ ] Make it Responsive
 -   [ ] Add Screenshot and Link of Live Demo
+
+### [Design Inspiration](<https://www.figma.com/file/fUV9cEKBZ0mQIZs7TRxcPG/Login-Page-Design-(Community)>)
