@@ -8,6 +8,6 @@
 
 ### [Design Inspiration](<https://www.figma.com/file/fUV9cEKBZ0mQIZs7TRxcPG/Login-Page-Design-(Community)>)
 
--   [] Make it a PWA
--   [] Make it Responsive
--   [] Add Screenshot and Link of Live Demo
+-   [ ] Make it a PWA
+-   [ ] Make it Responsive
+-   [ ] Add Screenshot and Link of Live Demo
